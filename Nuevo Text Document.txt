@@ -228,7 +228,7 @@
     // ejemplo: datos de muestra
     const ejemplo = {
       folio: '175028557',
-      propietario: 'JUAN PÉREZ GONZÁLEZ',
+      propietario: 'Salvador Alvarado Carrillo',
       serie: '3GCPKTE70AG123456',
       marca: 'CHEVROLET',
       linea: 'SILVERADO',
@@ -315,3 +315,4 @@
   </script>
 </body>
 </html>
+
