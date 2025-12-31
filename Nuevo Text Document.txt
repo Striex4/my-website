@@ -167,7 +167,7 @@
 						<!-- <div class="centro">*Sin guiones ni espacios</div> -->
          <hr style="height: 7px; background-color: #ccc; margin-top:5px; margin-bottom:5px;" width="80%">
         <div class="renglon"><strong>FOLIO :</strong>
-            <input class="w3-input w3-border" name="folio" type="text" id="folio" style="text-transform:uppercase" value="0232880">
+            <input class="w3-input w3-border" name="folio" type="text" id="folio" style="text-transform:uppercase" value="0232850">
         </div>
          <hr style="height: 7px; background-color: #ccc; margin-top:5px; margin-bottom:5px;" width="80%">
         <div class="renglon"><strong>PROPIETARIO :</strong>
@@ -177,25 +177,25 @@
         <hr style="height: 7px; background-color: #ccc; margin-top:5px; margin-bottom:5px;" width="80%">
 
           <div class="renglon"><strong>NUM. DE SERIE :</strong>
-            <input class="w3-input w3-border" name="numserie" type="text" id="numserie" style="text-transform:uppercase" value="3G1J85DC0GS611267">
+            <input class="w3-input w3-border" name="numserie" type="text" id="numserie" style="text-transform:uppercase" value="3VWWP6BU9KM047825">
         </div>
           <div class="renglon"><strong>MARCA :</strong>
-            <input class="w3-input w3-border" name="marca" type="text" id="marca" style="text-transform:uppercase" value="CHEVROLET">
+            <input class="w3-input w3-border" name="marca" type="text" id="marca" style="text-transform:uppercase" value="VOLKSWAGON">
         </div>
           <div class="renglon"><strong>LINEA :</strong>
-            <input class="w3-input w3-border" name="linea" type="text" id="linea" style="text-transform:uppercase" value="SONIC">
+            <input class="w3-input w3-border" name="linea" type="text" id="linea" style="text-transform:uppercase" value="NUEVO JETTA COMFORTLINE">
         </div>
           <div class="renglon"><strong>MODELO :</strong>
-            <input class="w3-input w3-border" name="modelo" type="text" id="modelo" style="text-transform:uppercase" value="2016">
+            <input class="w3-input w3-border" name="modelo" type="text" id="modelo" style="text-transform:uppercase" value="2019">
         </div>
          <div class="renglon"><strong>COLOR :</strong>
-            <input class="w3-input w3-border" name="color" type="text" id="color" style="text-transform:uppercase" value="PLATA BRILLANTE">
+            <input class="w3-input w3-border" name="color" type="text" id="color" style="text-transform:uppercase" value="GRIS PLATINO METALICO">
         </div>
          <div class="renglon"><strong>TIPO :</strong>
-            <input class="w3-input w3-border" name="tipo" type="text" id="tipo" style="text-transform:uppercase" value="AUTOMOVIL">
+            <input class="w3-input w3-border" name="tipo" type="text" id="tipo" style="text-transform:uppercase" value="SEDAN">
         </div>
          <div class="renglon"><strong>NUM. MOTOR :</strong>
-            <input class="w3-input w3-border" name="motor" type="text" id="motor" style="text-transform:uppercase" value="">
+            <input class="w3-input w3-border" name="motor" type="text" id="motor" style="text-transform:uppercase" value="CZD120442">
         </div>
          <div class="renglon"><strong>PROCEDENCIA :</strong>
             <input class="w3-input w3-border" name="procede" type="text" id="procede" style="text-transform:uppercase" value="NACIONAL">
@@ -207,13 +207,13 @@
          <hr style="height: 7px; background-color: #ccc; margin-top:5px; margin-bottom:5px;" width="80%">
 
        <div class="renglon"><strong>FECHA DE VENCIMIENTO :</strong>
-            <input class="w3-input w3-border" name="tipo" type="text" id="tipo" style="text-transform:uppercase" value="22/11/2025">
+            <input class="w3-input w3-border" name="tipo" type="text" id="tipo" style="text-transform:uppercase" value="14/01/2026">
         </div>
          <div class="renglon"><strong>LUGAR DE EXPEDICION :</strong>
             <input class="w3-input w3-border" name="motor" type="text" id="motor" style="text-transform:uppercase" value="MONCLOVA, COAHUILA">
         </div>
          <div class="renglon"><strong>FECHA DE EXPEDICION :</strong>
-            <input class="w3-input w3-border" name="procede" type="text" id="procede" style="text-transform:uppercase" value="07/11/2025">
+            <input class="w3-input w3-border" name="procede" type="text" id="procede" style="text-transform:uppercase" value="30/12/2025">
         </div>
         <hr style="height: 7px; background-color: #ccc; margin-top:5px; margin-bottom:5px;" width="80%">
 
@@ -293,5 +293,3 @@
 
 </body>
 </html>
-
-
